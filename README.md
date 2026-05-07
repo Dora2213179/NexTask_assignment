@@ -10,10 +10,6 @@ A modern, production-ready full-stack web application designed for agile teams t
 ![Dashboard](./screenshots/dashboard.png)
 *Interactive dashboard with real-time stats and task status breakdown.*
 
-### Drag-and-Drop Kanban Board
-![Kanban Board](./screenshots/kanban.png)
-*Manage tasks visually by dragging them across To Do, In Progress, and Done columns.*
-
 ### Project Overview
 ![Projects](./screenshots/projects.png)
 *Clean project listing with empty states and quick actions.*
